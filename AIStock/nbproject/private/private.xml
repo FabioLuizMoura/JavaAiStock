@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/FabioLuizMoura-1370431611010/AiIStock/web/jsp/produtousuario/alterarProdutoUsuario.jsp</file>
+            <file>file:/D:/FabioLuizMoura-1370431611010/AiIStock/src/java/br/com/aistock/db/ProdutoUsuarioDao.java</file>
+            <file>file:/D:/FabioLuizMoura-1370431611010/AiIStock/web/jsp/acesso/menu.jsp</file>
+            <file>file:/D:/FabioLuizMoura-1370431611010/AiIStock/web/jsp/produto/alterarProduto.jsp</file>
+            <file>file:/D:/FabioLuizMoura-1370431611010/AiIStock/src/java/br/com/aistock/controler/ProdutoControler.java</file>
+            <file>file:/D:/FabioLuizMoura-1370431611010/AiIStock/web/jsp/acesso/login.jsp</file>
+            <file>file:/D:/FabioLuizMoura-1370431611010/AiIStock/src/java/br/com/aistock/controler/ProdutoUsuarioControler.java</file>
+            <file>file:/D:/FabioLuizMoura-1370431611010/AiIStock/web/jsp/produtousuario/validaAlterarProdutoUsuario.jsp</file>
+            <file>file:/D:/FabioLuizMoura-1370431611010/AiIStock/web/jsp/produtousuario/validaConsultarProdutoUsuario.jsp</file>
+            <file>file:/D:/FabioLuizMoura-1370431611010/AiIStock/src/java/br/com/aistock/bean/Produto.java</file>
+            <file>file:/D:/FabioLuizMoura-1370431611010/AiIStock/src/java/br/com/aistock/bean/ProdutoUsuario.java</file>
+            <file>file:/D:/FabioLuizMoura-1370431611010/AiIStock/src/java/br/com/aistock/db/ProdutoDao.java</file>
+            <file>file:/D:/FabioLuizMoura-1370431611010/AiIStock/web/jsp/produtousuario/validaInserirProdutoUsuario.jsp</file>
+            <file>file:/D:/FabioLuizMoura-1370431611010/AiIStock/web/jsp/produtousuario/consultarProdutoUsuario.jsp</file>
+            <file>file:/D:/FabioLuizMoura-1370431611010/AiIStock/web/jsp/produto/validaAlterarProduto.jsp</file>
+            <file>file:/D:/FabioLuizMoura-1370431611010/AiIStock/web/jsp/produtousuario/excluirProdutoUsuario.jsp</file>
+        </group>
+    </open-files>
+</project-private>
